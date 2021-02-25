@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pesanDiterima" type="id" />
+    <item name="pesanBalik" type="id" />
+    <item name="kirimBalik" type="id" />
+    <item name="main_button_change_1" type="id" />
+    <item name="main_button_change_2" type="id" />
+    <item name="isian" type="id" />
+    <item name="url" type="id" />
+    <item name="buttonBrowse" type="id" />
+    <item name="buttonKirim" type="id" />
+    <item name="jawaban" type="id" />
+    <item name="buttongantikeFragment" type="id" />
+    <item name="third_activity_fragment_1" type="id" />
+    <item name="third_activity_fragment_2" type="id" />
+</resources>
